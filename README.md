@@ -1,4 +1,4 @@
-# language-translator
+# language translator
 This project implements a language translator from English to French using neural networks, specifically LSTM and RNN architectures. It includes comprehensive data processing steps such as data cleaning, preprocessing, analysis, tokenization, and padding. TensorFlow and Keras are used for implementation and training.
 
 Features
